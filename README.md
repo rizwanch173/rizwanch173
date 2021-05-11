@@ -18,9 +18,9 @@
 * Fix all bugs
 
 
-## I am Graduated in Computer Science and Currely Enrolled in Master Science in Data Science
+### I am Graduated in Computer Science and Currely Enrolled in Master Science in Data Science
 
-# I have Uploaded Sample projects at git for helping the new community.
+### I have Uploaded Sample projects at git for helping the new community, Please Visit the Following repository for portfolio.
 <!---
 rizwanch173/rizwanch173 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
