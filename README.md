@@ -2,7 +2,7 @@
 ## UI/UX, Firebase, PHP
 
 <tr >
-    <td ><img src="https://user-images.githubusercontent.com/57150383/117805216-26172900-b272-11eb-9b9d-2be969789a55.png" style="width:200px;height:200px"></td>
+    <td ><img src="https://user-images.githubusercontent.com/57150383/117805216-26172900-b272-11eb-9b9d-2be969789a55.png" style="width:30px;height:30px"></td>
     <td  ><img src="https://user-images.githubusercontent.com/57150383/116878293-96052e00-ac38-11eb-9f69-ddb19405b525.png" ></td>
 </tr>
 
