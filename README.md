@@ -6,8 +6,8 @@
     
 </tr>
 
-#### Develop Native App For Android and IOS
-#### Integrating Mobile Ads with Admob
+* Develop Native App For Android and IOS
+* Integrating Mobile Ads with Admob
 #### Email, Google, Facebook User Authentication
 #### Firebase Integrating 
 #### Restful API, Google API
