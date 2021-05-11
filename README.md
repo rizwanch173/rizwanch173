@@ -8,6 +8,7 @@
 
 * Rich UI/UX Flutter
 * Develop Native App For Android and IOS
+* Integrating Mobile Ads with Admob
 
 
 ## I am Graduated in Computer Science and Currely Enrolled in Master Science in Data Science
