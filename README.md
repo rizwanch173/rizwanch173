@@ -18,7 +18,7 @@ RESTful API: Python Django, PHP (CodeIgniter).
 Database & Cloud Services: MySQL, NoSQL, MongoDB, Firebase, AWS Web Services.
 VCS: Git, GitHub, GitLab.
 
-[![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanch173)](https://github.com/anuraghazra/github-readme-stats)
+![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 # My project links are following.
 
