@@ -19,9 +19,12 @@ Database & Cloud Services: MySQL, NoSQL, MongoDB, Firebase, AWS Web Services.
 VCS: Git, GitHub, GitLab.
 
 <tr>
-   
+  <td> 
 ![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanch173&show_icons=true&theme=radical&hide=contribs) 
-    <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanch173&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+      </td>
+    <td>
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanch173&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+        </td>
 </tr>
 # My project links are following.
 
