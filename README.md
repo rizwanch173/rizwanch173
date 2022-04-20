@@ -6,6 +6,20 @@
     
 </tr>
 
+I am graduated in Computer Science, Enthusiastic Full Stack Flutter Developer contributes to team 
+success through smart work, attention to detail, and excellent organizational skills, having a 3+-year 
+of experience in a flutter. I have developed several applications providing the quality of work with 
+surety.
+My primary skills Summary is as follows.
+Flutter State Management: Reactive programming (Rxdart), Bloc, GetX, Provider.
+Services: Flutter third-party Native SDKs, Flutter Crashlytics, Maps integration, GPS, 
+Remote Configuration, Queue of Future, Background Services.
+UI: Rich animations, Material animation, Custom Components, User Interactions.
+RESTful API: Python Django, PHP (CodeIgniter).
+Database & Cloud Services: MySQL, NoSQL, MongoDB, Firebase, AWS Web Services.
+VCS: Git, GitHub, GitLab.
+
+
 ### I am Graduated in Computer Science and Currely Enrolled in Master Science in Data Science
 
 ### I have Uploaded Sample projects at git for helping the new community, Please Visit the Following repository for portfolio.
