@@ -18,9 +18,8 @@ RESTful API: Python Django, PHP (CodeIgniter).
 Database & Cloud Services: MySQL, NoSQL, MongoDB, Firebase, AWS Web Services.
 VCS: Git, GitHub, GitLab.
 
-<tr>
-![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanch173&show_icons=true&theme=radical&hide=contribs) 
-</tr>
+![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanch173&show_icons=true&theme=radical&hide=contribs)
+
 # My project links are following.
 
 https://apps.apple.com/us/app/tuneone-radio/id1588979954
