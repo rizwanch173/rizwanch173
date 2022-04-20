@@ -1,5 +1,4 @@
 # Full Stack Flutter Developer having 3+ years experience.
-## UI/UX, Firebase, PHP
 
 <tr >
     <td ><img src="https://user-images.githubusercontent.com/57150383/117805216-26172900-b272-11eb-9b9d-2be969789a55.png" width="40" height="40"></td>
