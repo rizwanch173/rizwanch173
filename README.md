@@ -19,10 +19,10 @@ Database & Cloud Services: MySQL, NoSQL, MongoDB, Firebase, AWS Web Services.
 VCS: Git, GitHub, GitLab.
 
 <tr>
-    <td>
-![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanch173&show_icons=true&theme=radical) </td>
-    <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanch173a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)</td>>
-</td>
+   
+![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanch173&show_icons=true&theme=radical) 
+    <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanch173a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</tr>
 # My project links are following.
 
 https://apps.apple.com/us/app/tuneone-radio/id1588979954
