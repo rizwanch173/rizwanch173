@@ -21,7 +21,7 @@ VCS: Git, GitHub, GitLab.
 <tr>
    
 ![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanch173&show_icons=true&theme=radical) 
-    <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanch173a&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+    <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizwanch173&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 </tr>
 # My project links are following.
 
