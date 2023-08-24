@@ -22,6 +22,54 @@ VCS: Git, GitHub, GitLab.
 
 # My project links are following.
 
+Links are append at last.
+
+1. LP finance (Crypto Wallet) Decentralized App
+
+Role: Mid-Senior Flutter Developer
+
+This project is for LP finance in which I am working as a full-stack flutter developer, its finical and crypto wallet the features are following,
+
+User Registration with Veriff (KYC),Salona crypto wallet creation,Send Salona Coins, Qr based transaction, Receive Salona Coins, Daily Bonus coins, Dashboard,Encrypted messaging,Push Notification,Rich UI/UX,Enhanced Security
+
+2. Hifa Oil Loyalty
+
+Role: Project Manger & Flutter Developer 
+
+App for large scale oil company located in Bosnia, the App assist their customer to active their card, Google map for navigation to their different oil station, all transaction history, check, and subscribe to their loyalty programs, and much more.
+
+3. TuneOne Radio
+
+Role: Project Manger & Flutter Developer 
+
+Multiple Radio Station, live streams, Podcast and many more media items ,background player.
+
+4. BWS (E-Commerce APP)
+
+Role: Project Manger & Flutter Developer 
+
+Multiple Radio Station, live streams, Podcast and many more media items ,background player.
+
+5. BWS (E-Commerce APP)
+
+Role: Backend developer & Lead Flutter Developer 
+
+Multi vendor, Web Dashboard, Support multiple payment options, Push notifications, Custom branding, Social media integration,  highly usable and visually attractive., Google Analytics, Rating and feedback.
+
+6. Macsentry VPN
+
+Role: Flutter Developer 
+
+Connect to VPN servers around the world and be able to browse privately, stream media, download freely, and mask your IP all with the greatest VPN for your mac, MacSentry VPN. MacSentry VPN keeps your connection secure, encrypted, and private whenever you connect to the internet.
+
+7. Weather Fit
+
+Role: Flutter Developer 
+
+The Weather Fit app provides  a wealth of meteorological data such as temperature, wind and visibility on an hourly or daily basis, with an extended forecast available. 
+
+----------------links------------------
+
 https://apps.apple.com/us/app/tuneone-radio/id1588979954
 
 https://play.google.com/store/apps/details?id=org.tuneoneradio
@@ -42,6 +90,9 @@ https://play.google.com/store/apps/details?id=com.macsentry.macsentry
 The Crypto App wallet that's my recent project is not yet live on stores I am sharing APK file. 
 
 https://drive.google.com/file/d/1BvJo7iZRjneQQmMJFINB-ZWUYlCF0bSE/view?usp=drivesdk
+
+
+
 
 ### I have Uploaded Sample projects at git for helping the new community, Please Visit the Following repository for portfolio.
 <!---
