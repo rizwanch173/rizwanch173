@@ -124,8 +124,12 @@ https://drive.google.com/file/d/1BvJo7iZRjneQQmMJFINB-ZWUYlCF0bSE/view?usp=drive
 |:--:|:--:|:--:|
 | ![tia6292266475190166199](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/652c136a-8c2a-49b4-bbae-3ec2d4ca64ba) | ![tia6455416346258181026](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/f3bbcff9-90fb-4e60-8174-bdc0fb4a6a2d) | ![tia7041166970732936181](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/c06a5b7d-1d18-400c-b501-98a90cdcba2f) |
 
+## Motal App
 
-
+| ![1 (1)](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/a0ce074b-829d-4c6f-8d29-2ffa7b554eb0) | ![1 (2)](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/34bbb611-a95e-48e8-9469-9edfb2fa792d) | ![1 (3)](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/775d3f2e-ffdc-46fa-bea6-32456c293410) |
+|:--:|:--:|:--:|
+| ![1 (4)](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/786e0e52-3ae3-404d-8881-7ce3f4b19d0f) | ![1 (5)](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/3797d850-c477-419a-a62f-e5d2de3a3e4d) | ![1 (6)](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/78aa8008-8afa-4faf-9d82-ec1a5cb8bd7b) |
+| ![1 (7)](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/e93b2f57-3754-40d8-89ba-08815e840d67) | ![1 (8)](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/6d8043f5-9c5b-4393-8d5d-1b2f70896788) | ![1 (9)](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/b2be86ef-3103-470c-9a41-1c338b049c59) |
 
 
 
