@@ -1,4 +1,4 @@
-# Full Stack Flutter Developer having 3+ years experience.
+# Flutter Mobile App & Python Django Developer having 3+ years experience.
 
 <tr >
     <td ><img src="https://user-images.githubusercontent.com/57150383/117805216-26172900-b272-11eb-9b9d-2be969789a55.png" width="40" height="40"></td>
@@ -22,13 +22,26 @@ VCS: Git, GitHub, GitLab.
 
 # My project links are following.
 
-Links are append at last.
+Links and Screenshoot are attched at the End of this doc.
+
+# Currently working on following App
+
+Role: Flutter Mobile App developer & Django developer.
+
+Currently I'm developing an investment app that allows users to create investment accounts and choose from a variety of funds, each with a specific risk profile—ranging from high to low risk. 
+
+The onboarding process involves a series of Q&A steps designed to assess the user's risk tolerance. Based on the answers provided, the app generates a personalized risk profile and recommends suitable funds. Users can then select funds to attach to their investment accounts.
+
+Following this, users are prompted to complete a KYC (Know Your Customer) process, finalizing their investment profile. Additionally, users can add bank accounts to facilitate deposits and withdrawals directly within the app.
+
+
+# Previous experience
 
 1. LP finance (Crypto Wallet) Decentralized App
 
 Role: Mid-Senior Flutter Developer
 
-This project is for LP finance in which I am working as a full-stack flutter developer, its finical and crypto wallet the features are following,
+This project is for LP finance in which I have worked as a full-stack flutter developer, its finical and crypto wallet the features are following,
 
 User Registration with Veriff (KYC),Salona crypto wallet creation,Send Salona Coins, Qr based transaction, Receive Salona Coins, Daily Bonus coins, Dashboard,Encrypted messaging,Push Notification,Rich UI/UX,Enhanced Security
 
@@ -87,9 +100,35 @@ https://play.google.com/store/apps/details?id=org.bws
 https://apps.apple.com/app/id1171425528
 https://play.google.com/store/apps/details?id=com.macsentry.macsentry
 
-The Crypto App wallet that's my recent project is not yet live on stores I am sharing APK file. 
+The Crypto App wallet that's is not yet live on stores I am sharing APK file. 
 
 https://drive.google.com/file/d/1BvJo7iZRjneQQmMJFINB-ZWUYlCF0bSE/view?usp=drivesdk
+
+# Screenshoots
+
+## Arka Investment App
+
+![IMG_4490](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/40afc57e-a7cd-4061-80c7-c432f0d68fd8)
+![IMG_4491](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/f3a63a00-30cb-4c0c-914c-2c0c3316be9e)
+![IMG_4492](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/e22cd979-d3d1-4d67-8cc7-b592a2cd786e)
+![IMG_4493](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/5a3dd79f-6528-4a69-8ad5-3fc3354cd488)
+![IMG_4494](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/f58a75c2-82c5-4105-84ba-631bdcf09e36)
+![IMG_4495](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/2365361e-a29b-47f2-908c-b4754cacc53c)
+![IMG_4496](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/bfbff32c-580d-4a7c-baf7-5385f824f05a)
+![IMG_4497](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/d4812f5a-7554-4c2a-94fe-233c78a7fd7f)
+![IMG_4498](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/b7bd3fc0-c749-4c37-98d5-d3c815982883)
+![IMG_4499](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/ef73c4c5-add6-4043-9108-6b4d0b1aaa08)
+![IMG_4500](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/bbb401ae-3de2-436a-9842-32b6d5b2a21d)
+![IMG_4501](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/8786c8f8-450d-4673-918b-1a1830ed4aab)
+![IMG_4502](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/29866951-0e40-4a2f-b822-2095d78ce43e)
+![IMG_4503](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/32da122f-65c2-48bc-899b-753a0d33597f)
+![IMG_4504](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/455fc190-7725-4008-acb0-e689a8dc58c6)
+![IMG_4505](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/2228430c-e054-4031-a4ad-c8b8664af6b0)
+![IMG_4507](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/f644edd9-b50e-49e8-9b7d-aaed848025f9)
+![IMG_4508](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/b4c662b4-8555-4e66-a147-dd9a1eb7a60f)
+![IMG_4509](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/503aace0-125f-4063-af13-5784714267d5)
+![IMG_4510](https://github.com/rizwanch173/Flutter-Social-App-UI-Kit/assets/57150383/7c0d04a7-3a55-4bed-b474-80d757dd732f)
+
 
 
 
