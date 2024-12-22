@@ -20,11 +20,11 @@ VCS: Git, GitHub, GitLab.
 
 <!-- ![Rizwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizwanch173&show_icons=true&theme=radical&hide=contribs) -->
 
-# My project links are following.
+## My project links are following.
 
 Links and Screenshoot are attched at the End of this doc.
 
-# Currently working on following App
+## Currently working on following App
 
 Role: Flutter Mobile App developer & Django developer.
 
@@ -35,7 +35,7 @@ The onboarding process involves a series of Q&A steps designed to assess the use
 Following this, users are prompted to complete a KYC (Know Your Customer) process, finalizing their investment profile. Additionally, users can add bank accounts to facilitate deposits and withdrawals directly within the app.
 
 
-# Previous experience
+## Previous experience
 
 1. LP finance (Crypto Wallet) Decentralized App
 
